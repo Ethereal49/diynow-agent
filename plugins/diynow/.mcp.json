@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "diynow": {
+      "type": "http",
+      "url": "https://diynow.life/mcp"
+    }
+  }
+}

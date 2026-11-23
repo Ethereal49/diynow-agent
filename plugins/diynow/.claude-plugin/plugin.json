@@ -1,0 +1,21 @@
+{
+  "name": "diynow",
+  "version": "0.3.0",
+  "description": "DIYNow 的只读 MCP 服务和申请全流程 skill：按官网出处查 2027 年入学的硕士项目资料，核对硬性条件，排截止日期和材料清单，写文书，辅助填写网申。提交由你本人完成。",
+  "author": {
+    "name": "DIYNow",
+    "url": "https://diynow.life"
+  },
+  "homepage": "https://diynow.life/agent/",
+  "repository": "https://github.com/Ethereal49/diynow-agent",
+  "license": "MIT",
+  "keywords": [
+    "study-abroad",
+    "masters",
+    "admissions",
+    "mcp",
+    "skills"
+  ],
+  "displayName": "DIYNow",
+  "privacyPolicyUrl": "https://diynow.life/agent/#privacy"
+}

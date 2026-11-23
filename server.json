@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Ethereal49/diynow",
+  "title": "DIYNow",
+  "description": "Official-source facts on master's programmes for 2027 entry: HK, Macau, SG, UK, AU and more.",
+  "version": "0.3.0",
+  "websiteUrl": "https://diynow.life/agent/",
+  "repository": {
+    "url": "https://github.com/Ethereal49/diynow-agent",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://diynow.life/mcp"
+    }
+  ]
+}

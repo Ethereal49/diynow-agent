@@ -1,0 +1,20 @@
+{
+  "name": "diynow",
+  "interface": {
+    "displayName": "DIYNow"
+  },
+  "plugins": [
+    {
+      "name": "diynow",
+      "source": {
+        "source": "local",
+        "path": "./plugins/diynow"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
