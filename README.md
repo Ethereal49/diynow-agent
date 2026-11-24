@@ -2,7 +2,7 @@
 
 DIYNow 的只读 MCP 服务和申请全流程 skill：按官网出处查 2027 年入学的硕士项目资料，核对硬性条件，排截止日期和材料清单，写文书，辅助填写网申。提交由你本人完成。
 
-这个仓库由 DIYNow 主仓库的 `apps/agent/pack.mjs --plugin` 生成，不要直接修改。完整安装说明：https://diynow.life/agent/
+这个仓库由 DIYNow 主仓库的 `apps/agent/pack.mjs --plugin` 生成，不要直接修改。完整安装说明：<https://diynow.life/agent/>
 
 ## 安装
 
@@ -20,7 +20,7 @@ codex plugin marketplace add Ethereal49/diynow-agent
 codex plugin add diynow@diynow
 ```
 
-Claude 网页版和桌面版：Customize → Plugins → Add → Add marketplace，填 `Ethereal49/diynow-agent`，再安装 DIYNow，并在插件的 Connectors 页签里连接服务。
+Claude 网页版和桌面版：左侧栏 Plugins → Add → Add marketplace → Add from a repository，填 `Ethereal49/diynow-agent` 并 Sync；搜索 DIYNow 并 Add；在 Connectors 一栏选 Connect，认证选 No sign-in。
 
 WorkBuddy：在插件市场选“添加市场”，填 `Ethereal49/diynow-agent`，再安装 DIYNow。
 
@@ -30,7 +30,7 @@ WorkBuddy：在插件市场选“添加市场”，填 `Ethereal49/diynow-agent`
 npx skills add https://diynow.life
 ```
 
-只接 MCP 服务：在支持远程 MCP 的客户端里添加 `https://diynow.life/mcp`（Streamable HTTP，不需要账号或密钥）。ChatGPT、豆包工作、Cursor、VS Code、Grok 等各自的步骤见 https://diynow.life/agent/。
+只接 MCP 服务：在支持远程 MCP 的客户端里添加 `https://diynow.life/mcp`（Streamable HTTP，不需要账号或密钥）。ChatGPT、豆包工作、Cursor、VS Code、Grok 等各自的步骤见 <https://diynow.life/agent/>。
 
 ## 内容
 
