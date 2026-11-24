@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "diynow",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "DIYNow 的只读 MCP 服务和申请全流程 skill：按官网出处查 2027 年入学的硕士项目资料，核对硬性条件，排截止日期和材料清单，写文书，辅助填写网申。提交由你本人完成。",
   "author": {
     "name": "DIYNow",
